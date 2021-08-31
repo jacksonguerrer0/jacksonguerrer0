@@ -1,1 +1,1 @@
-[Tecnologías](https://i.imgur.com/BAYkAVr.gif 'Tecnologías')
+![Tecnologías](https://i.imgur.com/BAYkAVr.gif 'Tecnologías')
