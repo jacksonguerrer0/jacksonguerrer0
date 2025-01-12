@@ -1,9 +1,9 @@
 ![Tecnologías](https://i.imgur.com/ofOrllR.png 'Stack')
 
-# Bienvenidos
+# WELCOME :)
 
-Mi nombre es Jackson Guerrero, Soy Desarrollador FrontEnd con muchas ganas de aprender de los demás. He trabajado con:
+I’m a Software Developer, and my journey has been all about diving deep into both Frontend (web apps) and Backend (services). Currently, I’m working as a Backend Developer.
 
-* ReactJs, HTML5, CSS3, JavaScript, Node.js, Firebase, npm, yarn, Uso de dependencias
+Started coding back in 2021, and since then, I've become a total tech enthusiast, always looking to learn and push boundaries. I’m especially curious about AI—if you’ve got any tips, hit me up! I'm a self-taught, open-minded learner, and I love tackling challenges, whether on my own or as part of a team.
 
-Estare compartiendo proyectos que serán útiles para aprender y practicar. ¡Que esperar para seguirme!
+Technology fuels my passion, and I believe it can make a real difference in the world.
