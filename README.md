@@ -1,4 +1,4 @@
-![Tecnologías](https://i.imgur.com/ofOrllR.png 'Stack)
+![Tecnologías](https://i.imgur.com/ofOrllR.png 'Stack')
 
 # Bienvenidos
 
