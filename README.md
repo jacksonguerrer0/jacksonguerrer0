@@ -1,5 +1,6 @@
-![Tecnologías](https://www.canva.com/design/DAGV05_oTSE/nne0IuumXEJII52uUacN-A/view?utm_content=DAGV05_oTSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b5c944970 'Tecnologías')
+![Tecnologías](https://www.canva.com/design/DAGV05_oTSE/nne0IuumXEJII52uUacN-A/view?utm_content=DAGV05_oTSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b5c944970)
 
+https://www.canva.com/design/DAGV05_oTSE/nne0IuumXEJII52uUacN-A/view?utm_content=DAGV05_oTSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2b5c944970
 # Bienvenidos
 
 Mi nombre es Jackson Guerrero, Soy Desarrollador FrontEnd con muchas ganas de aprender de los demás. He trabajado con:
