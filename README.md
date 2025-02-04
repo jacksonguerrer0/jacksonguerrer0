@@ -1,4 +1,4 @@
-![Tecnologías](https://i.imgur.com/ofOrllR.png 'Stack')
+![Tecnologías](/1731010031390.jpeg 'Stack')
 
 # WELCOME :)
 
