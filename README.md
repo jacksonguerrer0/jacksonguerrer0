@@ -1,87 +1,36 @@
-# Hey, I'm Jack
+# Hey, I'm Jack 👋
 
-I'm a Cloud & DevSecOps Engineer with a software engineering background.
+**Cloud & DevSecOps Engineer** with a software engineering background.
 
-I started building frontend and backend applications, but over time I got closer to cloud infrastructure, microservices, DevOps practices, secure integrations, observability, and production reliability.
+I work around **AWS, Kubernetes, Terraform, CI/CD, microservices, serverless workloads and secure cloud infrastructure**.
 
-These days, I'm mostly focused on building and improving systems with AWS, Kubernetes, Terraform, CI/CD, serverless workloads, and secure cloud infrastructure.
-
-I like working on real production problems: making systems more reliable, easier to operate, more secure, and better aligned with the business.
+My focus is building and improving systems that are **reliable, observable, secure and ready for production**, especially in fintech and payment environments.
 
 ---
 
-## What I'm into
+## What I work with
 
-- AWS cloud infrastructure
-- Kubernetes and containerized workloads
-- Terraform and Infrastructure as Code
-- CI/CD and deployment automation
-- Microservices and event-driven systems
-- Serverless architecture with AWS Lambda
-- Observability, dashboards, alerts and tracing
-- Secure integrations with mTLS and certificates
-- Fintech, payments, POS devices and transactional systems
-- Backend architecture and production reliability
+**Cloud & Platform**  
+AWS · Kubernetes · Terraform · Docker · CI/CD · Serverless · Infrastructure as Code
 
----
+**Backend & Systems**  
+TypeScript · Node.js · NestJS · Ruby · PostgreSQL · Microservices · Event-driven architecture
 
-## Tech I work with
+**Security & Payments**  
+mTLS · Certificates · PCI-DSS environments · EMV · Payment systems · POS / miniPOS
 
-**Cloud & DevOps**
-
-AWS · Kubernetes · Terraform · Docker · CI/CD · Grafana · API Gateway · Lambda · SQS · SNS · EventBridge · DynamoDB · S3 · RDS · Redshift · KMS · Secrets Manager
-
-**Backend**
-
-TypeScript · Node.js · NestJS · Ruby · PostgreSQL · SQL · NoSQL · REST APIs · Microservices · Event-driven architecture
-
-**Frontend background**
-
-React · Next.js · Vue · Nuxt · Tailwind CSS · JavaScript · TypeScript
-
-**Security & payments**
-
-mTLS · Certificates · PCI-DSS environments · EMV · Tokenization · Payment systems · POS / miniPOS infrastructure
+**Observability**  
+Grafana · Dashboards · Alerts · Logs · Tracing
 
 ---
 
-## A few things I care about
+## Currently focused on
 
-I care about clean systems, not just clean code.
-
-For me, good engineering is not only about making something work. It is also about making it observable, secure, scalable, maintainable, and understandable for the team that will operate it later.
-
-I enjoy working at the intersection of software engineering, cloud infrastructure, security, and business-critical systems.
+Cloud architecture · Platform engineering · DevSecOps · AWS production systems · Kubernetes · Terraform · Secure payment infrastructure
 
 ---
 
-## Currently learning more about
+## Links
 
-- Cloud architecture
-- Platform engineering
-- DevSecOps practices
-- Kubernetes operations
-- Infrastructure design with Terraform
-- Advanced AWS patterns
-- English for international engineering roles
-
----
-
-## Some project ideas I'm working on
-
-I'm slowly turning some of my real-world learning into public labs and examples:
-
-- AWS serverless microservices lab
-- Terraform-based secure cloud infrastructure
-- Kubernetes deployment and CI/CD examples
-- Observability patterns with Grafana
-- Secure mTLS integration examples
-- Payment infrastructure architecture notes
-
----
-
-## Find me around
-
-- LinkedIn: [linkedin.com/in/jackson-guerrero-vega](https://www.linkedin.com/in/jackson-guerrero-vega)
-- Portfolio: [jacksonguerrero.com](https://www.jacksonguerrero.com)
+[LinkedIn](https://www.linkedin.com/in/jackson-guerrero-vega) · [Portfolio](https://www.jacksonguerrero.com)
 - GitHub: [github.com/jacksonguerrer0](https://github.com/jacksonguerrer0)
