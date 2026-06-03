@@ -6,37 +6,44 @@
 
 # Hey, I'm Jack 👋
 
-**Cloud & DevSecOps Engineer** with a software engineering background.
+**Cloud & DevSecOps Engineer** with a software engineering background, focused on **AWS cloud infrastructure, DevOps, security and production systems**.
 
-I work around **AWS, Kubernetes, Terraform, CI/CD, microservices, serverless workloads and secure cloud infrastructure**.
+I work with **AWS, Kubernetes, Terraform, CI/CD, microservices, serverless workloads and secure cloud architectures**.
 
 My focus is building and improving systems that are **reliable, observable, secure and ready for production**, especially in fintech and payment environments.
 
 ---
 
-## What I work with
+## AWS & Cloud
 
-**Cloud & Platform**  
-AWS · Kubernetes · Terraform · Docker · CI/CD · Serverless · Infrastructure as Code
+AWS Lambda · API Gateway · S3 · DynamoDB · SQS · SNS · EventBridge · RDS · Redshift · Cognito · KMS · Secrets Manager · AppConfig · Cloud Infrastructure
 
-**Backend & Systems**  
-TypeScript · Node.js · NestJS · Ruby · PostgreSQL · Microservices · Event-driven architecture
+---
 
-**Security & Payments**  
-mTLS · Certificates · PCI-DSS environments · EMV · Payment systems · POS / miniPOS
+## Platform & DevOps
 
-**Observability**  
-Grafana · Dashboards · Alerts · Logs · Tracing
+Kubernetes · Terraform · Docker · CI/CD · Infrastructure as Code · Deployment Automation · Observability · Grafana
+
+---
+
+## Backend & Systems
+
+TypeScript · Node.js · NestJS · Ruby · PostgreSQL · Microservices · Event-driven architecture · Serverless
+
+---
+
+## Security & Payments
+
+mTLS · Certificates · PCI-DSS environments · EMV · Payment systems · POS / miniPOS · Secure integrations
 
 ---
 
 ## Currently focused on
 
-Cloud architecture · Platform engineering · DevSecOps · AWS production systems · Kubernetes · Terraform · Secure payment infrastructure
+AWS production systems · Cloud architecture · DevSecOps · Platform engineering · Kubernetes · Terraform · Secure payment infrastructure
 
 ---
 
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/jackson-guerrero-vega) · [Portfolio](https://www.jacksonguerrero.com)
-- GitHub: [github.com/jacksonguerrer0](https://github.com/jacksonguerrer0)
