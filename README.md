@@ -1,3 +1,9 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-blue?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Security-red?style=flat-square)
+
 # Hey, I'm Jack 👋
 
 **Cloud & DevSecOps Engineer** with a software engineering background.
